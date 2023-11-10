@@ -19,6 +19,7 @@ public class Main {
 		pacient2.addSymptomByName("diarrea", 1);
 		pacient2.addSymptomByName("astenia", 3);
 		pacient2.addSymptomByName("nauseas", 1);
+		pacient2.addSymptomByName("vomitos", 2);
 		
 		List<Covid19Pacient> pacients = new Vector<Covid19Pacient>();
 		pacients.add(pacient);
